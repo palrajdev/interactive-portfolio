@@ -66,5 +66,5 @@ You can deploy to any Next.js-compatible platform. For Vercel:
 
 ## Link
 
-Portfolio Link: [https://interactive-portfolio-zeta.vercel.app/]Open Portfolio)
+Portfolio Link: [https://interactive-portfolio-zeta.vercel.app/](https://interactive-portfolio-zeta.vercel.app/)
 
