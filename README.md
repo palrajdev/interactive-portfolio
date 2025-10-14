@@ -1,4 +1,4 @@
-# My Showcase Portfolio
+# My Full Stack Developer Portfolio
 
 Personal portfolio built with [Next.js](https://nextjs.org) and [Once UI](https://once-ui.com), based on the Magic Portfolio template. This repo contains my work, blog, and an about/CV page, all driven by MDX content.
 
@@ -66,5 +66,5 @@ You can deploy to any Next.js-compatible platform. For Vercel:
 
 ## Link
 
-Portfolio Link: `https://interactive-portfolio-zeta.vercel.app/`
+Portfolio Link: [https://interactive-portfolio-zeta.vercel.app/](https://interactive-portfolio-zeta.vercel.app/){:target="_blank"}
 
