@@ -64,7 +64,7 @@ You can deploy to any Next.js-compatible platform. For Vercel:
 2. Create a new Vercel project and import the repo
 3. Set the framework preset to Next.js and deploy
 
-## Documentation
+## Link
 
-Template docs: `https://docs.once-ui.com/docs/magic-portfolio/quick-start`
+Portfolio Link: `https://interactive-portfolio-zeta.vercel.app/`
 
