@@ -266,20 +266,20 @@ const about: About = {
           { name: "ShadCN", icon: "code" },
           { name: "MySQL", icon: "mysql" },
         ],
-        // images: [
-        //   {
-        //     src: "/images/projects/spm/cover-01.jpg",
-        //     alt: "Service Provider Marketplace dashboard",
-        //     width: 16,
-        //     height: 9,
-        //   },
-        //   {
-        //     src: "/images/projects/spm/cover-02.jpg",
-        //     alt: "SPM booking interface",
-        //     width: 16,
-        //     height: 9,
-        //   },
-        // ],
+        images: [
+          {
+            src: "/images/projects/spm/cover-01.jpg",
+            alt: "Service Provider Marketplace dashboard",
+            width: 16,
+            height: 9,
+          },
+          {
+            src: "/images/projects/spm/cover-02.jpg",
+            alt: "SPM booking interface",
+            width: 16,
+            height: 9,
+          },
+        ],
       },
       {
         title: "DSAI Web Portal",
@@ -299,20 +299,20 @@ const about: About = {
           { name: "Redis", icon: "redis" },
           { name: "AWS", icon: "aws" },
         ],
-        // images: [
-        //   {
-        //     src: "/images/projects/dsai/cover-01.jpg",
-        //     alt: "DSAI dashboard interface",
-        //     width: 16,
-        //     height: 9,
-        //   },
-        //   {
-        //     src: "/images/projects/dsai/cover-02.jpg",
-        //     alt: "DSAI portal analytics view",
-        //     width: 16,
-        //     height: 9,
-        //   },
-        // ],
+        images: [
+          {
+            src: "/images/projects/dsai/cover-01.jpg",
+            alt: "DSAI dashboard interface",
+            width: 16,
+            height: 9,
+          },
+          {
+            src: "/images/projects/dsai/cover-02.jpg",
+            alt: "DSAI portal analytics view",
+            width: 16,
+            height: 9,
+          },
+        ],
       },
 
     ],
